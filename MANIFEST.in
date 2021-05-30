@@ -1,0 +1,2 @@
+recursive-include docs *.rst
+exclude MANIFEST.in
