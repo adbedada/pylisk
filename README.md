@@ -1,9 +1,8 @@
 <p align="center"> 
-<img src="./misc/pylisk.svg" style="max-width: 400px; max-height: 75px" alt="Logo"/>
+<img src="./misc/pylisk.svg" style="max-width: 400px; max-height: 65px" alt="Logo"/>
 </p>
-
-
 <p align="center"> 
+
  <a href="https://github.com/adbeda/pylisk/actions/workflows/ci.yml" target="_blank">
  <img src="https://github.com/adbeda/pylisk/actions/workflows/ci.yml/badge.svg" alt="CI">
  </a>
